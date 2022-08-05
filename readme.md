@@ -14,4 +14,4 @@ another list
 1. yo oy
 
 ## other pages
-- [food food](https://github.com/Coreynutz/Coreynutz.github.io/foodfood)
+- [food food](https://Coreynutz.github.io/foodfood)
