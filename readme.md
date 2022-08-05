@@ -13,3 +13,5 @@ another list
 4. hot toh
 1. yo oy
 
+## other pages
+- [food food](https://github.com/Coreynutz/Coreynutz.github.io/foodfood)
