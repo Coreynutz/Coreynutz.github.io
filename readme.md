@@ -1,17 +1,2 @@
-# h1
-## h2
-### h3
-ordered list
-***
-1. first
-2. second
-3. third
-
-another list
----
-7. toooooooo oooooooot
-4. hot toh
-1. yo oy
-
-## other pages
-- [food food](https://Coreynutz.github.io/foodfood)
+# potato spuds are awsome
+![load of spuds](https://farm2.staticflickr.com/1250/929757295_27d40593b7_z.jpg)
